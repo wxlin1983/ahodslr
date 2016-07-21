@@ -4,4 +4,4 @@ This is a dslr control library wrapper that can be used to control Canon DSLR on
 
 You will need to download Canon SDK from their official website. I suggest you updating your camera to the latest firmware, otherwise this code might not work.
 
-Test with Canon SDK v2.15.
+Tested with Canon SDK v2.15.
